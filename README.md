@@ -65,3 +65,38 @@ secinfinity.net - by Prakash Sharma
 websecuritylog.com - by jitendra jaiswal
 medium.com/@ajdumanhug - by Allan Jay Dumanhug
 
+
+Videos Tutorials for Web Applications Pen-Testing & Web Services Pen-Testing
+http://www.irongeek.com/i.php?page=videos%2Fweb-application-pen-testing-tutorials-with-mutillidae
+http://webappsecmovies.sourceforge.net/webgoat
+http://www.irongeek.com/i.php?page=security%2Fhackingillustratedhttp://citylan.dl.sourceforge.net/project/webappsecmovies/web/webgoat/%5B20130604%5D%20Complete-Webgoat-Training-Movies--by-YGN-Ethical-Hacker-Group_Myanmar.zip
+
+
+Security Testing guides
+OWASP Testing Guide v3.0
+https://www.owasp.org/images/5/56/OWASP_Testing_Guide_v3.pdf
+Owasp Top 10 - 2013
+http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf
+Owasp Top 10 - 2010
+https://www.owasp.org/images/0/0f/OWASP_T10_-_2010_rc1.pdf
+Owasp Top 10 - 2013 Presentation
+http://owasptop10.googlecode.com/files/OWASP_Top-10_2013%20-%20Presentation.pptx
+
+
+Resources for Insecure Direct Object Reference Vulnerability
+https://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References
+https://www.owasp.org/index.php/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet
+http://blog.logrhythm.com/digital-forensics/detecting-and-defending-against-insecure-direct-object-reference-vulnerabilities-using-log-data-part-1
+http://www.cisodesk.com/web-application-security/threats-mitigation/insecure-direct-object-references
+http://avsecurity.in/2013/06/nokia-insecure-direct-object-reference
+http://www.jtmelton.com/2010/05/10/the-owasp-top-ten-and-esapi-part-5-insecure-direct-object-reference
+http://www.troyhunt.com/2010/09/owasp-top-10-for-net-developers-part-4.html
+http://www.slideshare.net/RapPayne/a4-insecure-direct-object-referencepptx
+http://www.blackstratus.com/enterprise/log-management/insecure-direct-object-reference
+https://www.aspectsecurity.com/news/secure-software-development/owasp-beware-insecure-direct-object-reference-attacks
+http://www.terrymarshall.com.au/Blog/tabid/162/EntryId/101/Security-Risks-Part-5-Insecure-Direct-Object-References.aspx
+http://support.godaddy.com/help/article/6736/insecure-direct-object-references
+http://bretthard.in/2009/07/insecure-direct-object-reference
+http://www.securatary.com/Portals/0/Vulnerabilities/Mura%20CMS/Mura%20CMS%20Take%20Over.pdf
+
+
