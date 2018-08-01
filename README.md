@@ -110,10 +110,8 @@ exploit.co.il/blog - by Shai rod<br />
 <br />
 ibreak.software - by Riyaz Ahemed Walikar<br />
 <br />
-panchocosil.blogspot.in - by Francisco<br />
+panchocosil.blogspot.in - by Francisco Correa<br />
 <br />
-Correa
-
 securitylearn.net - by Satish Bommisetty<br />
 <br />
 secinfinity.net - by Prakash Sharma<br />
