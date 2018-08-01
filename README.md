@@ -115,9 +115,11 @@ medium.com/@ajdumanhug - by Allan Jay Dumanhug
 Videos Tutorials for Web Applications Pen-Testing & Web Services Pen-Testing http://www.irongeek.com/i.php?page=videos%2Fweb-application-pen-testing-tutorials-with-mutillidae
 
 
-http://webappsecmovies.sourceforge.net/webgoat http://www.irongeek.com
+http://webappsecmovies.sourceforge.net/webgoat 
 
-/i.php?page=security%2Fhackingillustrated
+ 
+
+http://www.irongeek.com/i.php?page=security%2Fhackingillustrated
 
 
 http://citylan.dl.sourceforge.net/project/webappsecmovies/web/webgoat/%5B20130604%5D%20Complete-Webgoat-Training-Movies--by-YGN-Ethical-Hacker-Group_Myanmar.zip  
@@ -200,3 +202,5 @@ http://blog.eviltester.com/2011/04/no-excuses-learn-burp-suite-to-aid-your-web-t
 
 
 http://searchsecurity.techtarget.in/tutorial/Burp-Suite-Tutorial-Part-2-Intruder-and-repeater-tools
+
+
