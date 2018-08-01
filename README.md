@@ -28,7 +28,9 @@ Thanks to all contributors.
 <br />
 <br />
 <br />
+
 <b>Bug Bounty Cheatsheets</b>
+
 https://github.com/EdOverflow/bugbounty-cheatsheet
 
 http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
