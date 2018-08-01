@@ -194,4 +194,21 @@ http://www.spylogic.net/2012/08/burp-suite-series-efficient-use-of-payload-optio
 http://blog.eviltester.com/2011/04/no-excuses-learn-burp-suite-to-aid-your-web-testing.html<br />
 <br />
 http://searchsecurity.techtarget.in/tutorial/Burp-Suite-Tutorial-Part-2-Intruder-and-repeater-tools<br />
+
+<br />
+<b>Vulnerabilities Databases</b>&nbsp; <br />
+http://cve.mitre.org - Common Vulnerabilities and Exposures. The Standard for Information Security Vulnerability Names.<br />
+<br />
+https://www.exploit-db.com - The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.<br />
+<br />
+http://0day.today - Inj3ct0r is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.<br />
+<br />
+http://osvdb.org - OSVDB's goal is to provide accurate, detailed, current, and unbiased technical security information.<br />
+<br />
+http://www.securityfocus.com - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.<br />
+<br />
+http://packetstormsecurity.com - Global Security Resource.<br />
+<br />
+https://wpvulndb.com - WPScan Vulnerability Database<br />
+<br />
 <br /></div>
