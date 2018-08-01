@@ -4,12 +4,9 @@
 <br />
 A collection of research papers, checklists, cheatsheet, best practises, blogs, softwares, libraries, documents, books resources and tons of cool stuff about bug hunting, security research.
 
-
 Inspired by worldwide security researchers.
 
-
 Thanks to all contributors.
-
 
 
 <b>&nbsp;</b><br />
@@ -42,8 +39,18 @@ Thanks to all contributors.
 <br />
 <br />
 <br />
-<a href="https://github.com/EdOverflow/bugbounty-cheatsheet">Bug Bounty Cheatsheets</a>
+<b>Bug Bounty Cheatsheets</b>
+https://github.com/EdOverflow/bugbounty-cheatsheet
 
+http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
+
+https://highon.coffee/blog/lfi-cheat-sheet - LFI Cheat Sheet
+
+https://highon.coffee/blog/reverse-shell-cheat-sheet - Reverse Shell Cheat Sheet
+
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet - SQL Injection Cheat Sheet
+
+https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows - Path Traversal Cheat Sheet: Windows
 
 
 
@@ -58,7 +65,6 @@ https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology<br />
 https://media.rootcon.org/ROOTCON%2011/Trainings/The%20Bug%20Hunters%20Methodology%202.pdf<br />
 <br />
 https://docs.google.com/presentation/d/1p8QiqbGndcEx1gm4_d3ne2fqeTqCTurTC77Lxe82zLY/edit#slide=id.p
-
 
 
 <b>&nbsp;</b><br />
@@ -81,7 +87,6 @@ https://www.bugcrowd.com<br />
 https://www.hackerone.com<br />
 <br />
 https://www.synack.com
-
 
 
 <b>&nbsp;</b><br />
@@ -139,7 +144,6 @@ http://citylan.dl.sourceforge.net/project/webappsecmovies/web/webgoat/%5B2013060
 
 
 
-
 <b>&nbsp;</b><br />
 <br />
 <br />
@@ -182,7 +186,6 @@ http://support.godaddy.com/help/article/6736/insecure-direct-object-references<b
 http://bretthard.in/2009/07/insecure-direct-object-reference<br />
 <br />
 http://www.securatary.com/Portals/0/Vulnerabilities/Mura%20CMS/Mura%20CMS%20Take%20Over.pdf
-
 
 
 
