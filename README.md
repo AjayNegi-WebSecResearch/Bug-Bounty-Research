@@ -31,8 +31,8 @@ https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology
 https://media.rootcon.org/ROOTCON%2011/Trainings/The%20Bug%20Hunters%20Methodology%202.pdf
 https://docs.google.com/presentation/d/1p8QiqbGndcEx1gm4_d3ne2fqeTqCTurTC77Lxe82zLY/edit#slide=id.p
 
-
 Writing Successful Bug Submissions – Bug Bounty Hunter Methodology
+https://researcherdocs.bugcrowd.com/docs/reporting-a-bug-old
 https://www.bugcrowd.com/writing-successful-bug-submissions-bug-bounty-hunter-methodology
 
 Bug Bounty Programs List 
@@ -44,4 +44,24 @@ https://www.bugcrowd.com
 https://www.hackerone.com
 https://www.synack.com
 
+
+Write Ups & Authors
+labs.detectify.com - by Frans Rosén
+sakurity.com/blog - by Egor Homakov
+respectxss.blogspot.in - by Ashar Javed
+cliffordtrigo.info - by Clifford Trigo
+websecresearch.in - by AN
+stephensclafani.com - by Stephen Sclafani
+sasi2103.blogspot.co.il - by Sasi Levi
+pwnsecurity.net - by Shashank
+breaksec.com - by Nir Goldshlager
+pwndizzle.blogspot.in - by Alex Davies
+c0rni3sm.blogspot.in - by yappare
+exploit.co.il/blog - by Shai rod
+ibreak.software - by Riyaz Ahemed Walikar
+panchocosil.blogspot.in - by Francisco Correa
+securitylearn.net - by Satish Bommisetty
+secinfinity.net - by Prakash Sharma
+websecuritylog.com - by jitendra jaiswal
+medium.com/@ajdumanhug - by Allan Jay Dumanhug
 
