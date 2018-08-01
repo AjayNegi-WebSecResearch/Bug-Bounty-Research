@@ -2,6 +2,7 @@
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <br /></div>
 
+
 <b>Bug-Bounty-Research</b>
 
 
@@ -55,7 +56,7 @@ https://researcherdocs.bugcrowd.com/docs/reporting-a-bug-old
 https://www.bugcrowd.com/writing-successful-bug-submissions-bug-bounty-hunter-methodology
 
 
-<b><a href="https://www.bugcrowd.com/bug-bounty-list">Bug Bounty Programs</a> List</b>
+<b><a href="https://www.bugcrowd.com/bug-bounty-list">Bug Bounty Programs</a></b>
 
 
 
