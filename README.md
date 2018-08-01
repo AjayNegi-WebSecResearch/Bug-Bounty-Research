@@ -100,3 +100,14 @@ http://bretthard.in/2009/07/insecure-direct-object-reference
 http://www.securatary.com/Portals/0/Vulnerabilities/Mura%20CMS/Mura%20CMS%20Take%20Over.pdf
 
 
+Burp Tutorials
+http://portswigger.net/burp/help/suite_gettingstarted.html
+http://www.securityninja.co.uk/application-security/burp-suite-tutorial-scanner-tool
+http://www.securityninja.co.uk/application-security/burp-suite-tutorial-sequencer-tool/
+http://www.tssci-security.com/archives/2007/12/21/testing-for-randomness-and-predictability-using-burp-sequencer/
+http://www.mcgrewsecurity.com/2007/04/19/using-the-burp-suite-to-bypass-weird-access-controls
+http://www.spylogic.net/2012/08/burp-suite-series-efficient-use-of-payload-options-when-attacking-http-basic-authentication/
+http://blog.eviltester.com/2011/04/no-excuses-learn-burp-suite-to-aid-your-web-testing.html
+http://searchsecurity.techtarget.in/tutorial/Burp-Suite-Tutorial-Part-2-Intruder-and-repeater-tools
+
+
