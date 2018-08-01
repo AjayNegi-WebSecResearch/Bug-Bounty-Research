@@ -1,7 +1,8 @@
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <br /></div>
-# Bug-Bounty-Research
+
+<b>Bug-Bounty-Research</b>
 
 
 A collection of research papers, checklists, cheatsheet, best practises, blogs, softwares, libraries, documents, books resources and tons of cool stuff about bug hunting, security research.
@@ -11,7 +12,6 @@ Inspired by worldwide security researchers.
 
 
 Thanks to all contributors.
-
 
 
 
@@ -35,6 +35,7 @@ Thanks to all contributors.
 
 
 
+
 <b>Getting Started - Bug Bounty Hunter Methodology</b>
 
 https://jasonhaddix.com/the-bug-hunters-methodology-2-0
@@ -44,6 +45,7 @@ https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology
 https://media.rootcon.org/ROOTCON%2011/Trainings/The%20Bug%20Hunters%20Methodology%202.pdf
 
 https://docs.google.com/presentation/d/1p8QiqbGndcEx1gm4_d3ne2fqeTqCTurTC77Lxe82zLY/edit#slide=id.p
+
 
 
 <b>Writing Successful Bug Submissions – Bug Bounty Hunter Methodology</b>
@@ -56,6 +58,7 @@ https://www.bugcrowd.com/writing-successful-bug-submissions-bug-bounty-hunter-me
 <b><a href="https://www.bugcrowd.com/bug-bounty-list">Bug Bounty Programs</a> List</b>
 
 
+
 <b>Bug Bounty Platforms List</b>
 
 https://www.bugcrowd.com
@@ -63,6 +66,7 @@ https://www.bugcrowd.com
 https://www.hackerone.com
 
 https://www.synack.com
+
 
 
 <b>Write Ups & Authors</b>
@@ -105,6 +109,7 @@ medium.com/@ajdumanhug - by Allan Jay Dumanhug
 
 
 
+
 <b>Videos Tutorials for Web Applications Pen-Testing & Web Services Pen-Testing</b>
 http://www.irongeek.com/i.php?page=videos%2Fweb-application-pen-testing-tutorials-with-mutillidae
 
@@ -114,7 +119,8 @@ http://www.irongeek.com/i.php?page=security%2Fhackingillustratedhttp://citylan.d
 
 
 
-<b>Security Testing guides</b>
+
+<b>Security Testing Guides</b>
 
 https://www.owasp.org/images/5/56/OWASP_Testing_Guide_v3.pdf
 
@@ -123,6 +129,7 @@ http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202013.pdf
 https://www.owasp.org/images/0/0f/OWASP_T10_-_2010_rc1.pdf
 
 http://owasptop10.googlecode.com/files/OWASP_Top-10_2013%20-%20Presentation.pptx
+
 
 
 
@@ -155,6 +162,7 @@ http://support.godaddy.com/help/article/6736/insecure-direct-object-references
 http://bretthard.in/2009/07/insecure-direct-object-reference
 
 http://www.securatary.com/Portals/0/Vulnerabilities/Mura%20CMS/Mura%20CMS%20Take%20Over.pdf
+
 
 
 
