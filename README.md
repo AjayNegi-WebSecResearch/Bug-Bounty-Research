@@ -15,21 +15,16 @@ Thanks to all contributors.
 <b>Getting Started</b>
 <br />
 <br />
-<a href="https://hackerone.com/blog/what-great-hackers-share">How to Become a Bug Bounty Hunter
-</a>
-
+<a href="https://hackerone.com/blog/what-great-hackers-share">How to Become a Bug Bounty Hunter</a>
 <br />
 <br />
 <a href="https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102">Researcher Resources - How to become a Bug Bounty Hunter</a>
-
 <br />
 <br />
 <a href="https://whitton.io/articles/bug-bounties-101-getting-started">Bug Bounties 101</a>
-
 <br />
 <br />
 <a href="http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter">The life of a bug bounty hunter</a>
-
 <br />
 <br />
 <br />
