@@ -85,75 +85,65 @@ https://www.synack.com
 <b>Write Ups &amp; Authors</b><br />
 <br />
 
-labs.detectify.com - by Frans Rosén 
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<br /></div>
+<a href="http://www.labs.detectify.com/">labs.detectify.com</a> - by Frans Rosén<br />
+<br />
+&nbsp;<a href="http://www.sakurity.com/blog">sakurity.com/blog</a> - by Egor Homakov<br />
+<br />
+&nbsp;<a href="http://www.respectxss.blogspot.in/">respectxss.blogspot.in</a> - by Ashar Javed
 
- 
+<br />
+<br />
+<a href="http://www.cliffordtrigo.info/">cliffordtrigo.info</a> - by Clifford Trigo
 
- sakurity.com/blog - by Egor Homakov 
+<br />
+<br />
+<a href="http://www.websecresearch.in/">websecresearch.in</a> - by AN
 
- 
+<br />
+<br />
+<a href="http://www.stephensclafani.com/">stephensclafani.com</a> - by Stephen Sclafani<br />
+<br />
+&nbsp;<a href="http://www.sasi2103.blogspot.co.il/">sasi2103.blogspot.co.il</a> - by Sasi Levi
 
- respectxss.blogspot.in - by Ashar Javed  
+<br />
+<br />
+<a href="http://www.pwnsecurity.net/">pwnsecurity.net</a> - by Shashank
 
- 
+<br />
+<br />
+<a href="http://www.breaksec.com/">breaksec.com</a> - by Nir Goldshlager
 
-cliffordtrigo.info - by Clifford Trigo  
+<br />
+<br />
+<a href="http://www.pwndizzle.blogspot.in/">pwndizzle.blogspot.in</a> - by Alex Davies<br />
+<br />
+<a href="http://www.c0rni3sm.blogspot.in/">c0rni3sm.blogspot.in</a> - by yappare<br />
+<br />
+<a href="http://www.exploit.co.il/blog">exploit.co.il/blog</a> - by Shai rod<br />
+<br />
+<a href="http://www.ibreak.software/">ibreak.software</a> - by Riyaz Ahemed Walikar
 
- 
+<br />
+<br />
+<a href="http://www.panchocosil.blogspot.in/">panchocosil.blogspot.in</a> - by Francisco Correa<br />
+<br />
+<a href="http://www.securitylearn.net/">securitylearn.net</a> - by Satish Bommisetty
 
-websecresearch.in - by AN  
+<br />
+<br />
+<a href="http://www.secinfinity.net/">secinfinity.net</a> - by Prakash Sharma
 
- 
+<br />
+<br />
+<a href="http://www.websecuritylog.com/">websecuritylog.com</a> - by jitendra jaiswal
 
-stephensclafani.com - by Stephen Sclafani 
+<br />
+<br />
+<a href="http://www.medium.com/@ajdumanhug">medium.com/@ajdumanhug</a> - by Allan Jay Dumanhug</div>
 
- 
-
- sasi2103.blogspot.co.il - by Sasi Levi  
-
- 
-
-pwnsecurity.net - by Shashank  
-
- 
-
-breaksec.com - by Nir Goldshlager  
-
- 
-
-pwndizzle.blogspot.in - by Alex Davies 
-
- 
-
-c0rni3sm.blogspot.in - by yappare 
-
- 
-
-exploit.co.il/blog - by Shai rod 
-
- 
-
-ibreak.software - by Riyaz Ahemed Walikar  
-
- 
-
-panchocosil.blogspot.in - by Francisco Correa 
-
- 
-
-securitylearn.net - by Satish Bommisetty  
-
- 
-
-secinfinity.net - by Prakash Sharma  
-
- 
-
-websecuritylog.com - by jitendra jaiswal  
-
- 
-
-medium.com/@ajdumanhug - by Allan Jay Dumanhug
 <br />
 <br />
 <b>Videos Tutorials for Web Applications Pen-Testing &amp; Web Services Pen-Testing</b>
