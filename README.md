@@ -84,41 +84,76 @@ https://www.synack.com
 <br />
 <b>Write Ups &amp; Authors</b><br />
 <br />
-labs.detectify.com - by Frans Rosén<br />
-<br />
-sakurity.com/blog - by Egor Homakov<br />
-<br />
-respectxss.blogspot.in - by Ashar Javed<br />
-<br />
-cliffordtrigo.info - by Clifford Trigo<br />
-<br />
-websecresearch.in - by AN<br />
-<br />
-stephensclafani.com - by Stephen Sclafani<br />
-<br />
-sasi2103.blogspot.co.il - by Sasi Levi<br />
-<br />
-pwnsecurity.net - by Shashank<br />
-<br />
-breaksec.com - by Nir Goldshlager<br />
-<br />
-pwndizzle.blogspot.in - by Alex Davies<br />
-<br />
-c0rni3sm.blogspot.in - by yappare<br />
-<br />
-exploit.co.il/blog - by Shai rod<br />
-<br />
-ibreak.software - by Riyaz Ahemed Walikar<br />
-<br />
-panchocosil.blogspot.in - by Francisco Correa<br />
-<br />
-securitylearn.net - by Satish Bommisetty<br />
-<br />
-secinfinity.net - by Prakash Sharma<br />
-<br />
-websecuritylog.com - by jitendra jaiswal<br />
-<br />
-medium.com/@ajdumanhug - by Allan Jay Dumanhug<br />
+
+labs.detectify.com - by Frans Rosén 
+
+ 
+
+ sakurity.com/blog - by Egor Homakov 
+
+ 
+
+ respectxss.blogspot.in - by Ashar Javed  
+
+ 
+
+cliffordtrigo.info - by Clifford Trigo  
+
+ 
+
+websecresearch.in - by AN  
+
+ 
+
+stephensclafani.com - by Stephen Sclafani 
+
+ 
+
+ sasi2103.blogspot.co.il - by Sasi Levi  
+
+ 
+
+pwnsecurity.net - by Shashank  
+
+ 
+
+breaksec.com - by Nir Goldshlager  
+
+ 
+
+pwndizzle.blogspot.in - by Alex Davies 
+
+ 
+
+c0rni3sm.blogspot.in - by yappare 
+
+ 
+
+exploit.co.il/blog - by Shai rod 
+
+ 
+
+ibreak.software - by Riyaz Ahemed Walikar  
+
+ 
+
+panchocosil.blogspot.in - by Francisco Correa 
+
+ 
+
+securitylearn.net - by Satish Bommisetty  
+
+ 
+
+secinfinity.net - by Prakash Sharma  
+
+ 
+
+websecuritylog.com - by jitendra jaiswal  
+
+ 
+
+medium.com/@ajdumanhug - by Allan Jay Dumanhug
 <br />
 <br />
 <b>Videos Tutorials for Web Applications Pen-Testing &amp; Web Services Pen-Testing</b>
